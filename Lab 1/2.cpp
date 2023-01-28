@@ -1,5 +1,10 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
+
+//Function
+//-->Recursive function
+//-->Library function -->math.h
+//-->User define function
 
 int f(int *x, int n)
 {
